@@ -3,7 +3,7 @@
 <img width="650" src="https://www.howtogeek.com/wp-content/uploads/2016/10/android-logo-adb.png">
 
 # Introduction
-### Android Debug Bridge is command line utility to communicate with the Android device that is connected either via USB or Wi-Fi, or with an emulator(Android virtual device) running on the development machine.
+Android Debug Bridge is command line utility to communicate with the Android device that is connected either via USB or Wi-Fi, or with an emulator(Android virtual device) running on the development machine.
 
 
 # Generic ADB Commands
